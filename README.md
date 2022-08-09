@@ -6,3 +6,5 @@ The purpose for this challenge is to scrape web pages using some tools like spli
 
 This way give us accessibility due we can display it in differents devices like cell phones, computers or tablets, with specifing where our scrape web page can be shown.
 
+
+The image below show how data can be display in a cell phone mode.

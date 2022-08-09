@@ -8,3 +8,5 @@ This way give us accessibility due we can display it in differents devices like 
 
 
 The image below show how data can be display in a cell phone mode.
+
+![scrape_cellphone](Resources/scrape_cellphone.png)
